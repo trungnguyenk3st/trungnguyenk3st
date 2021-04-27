@@ -14,7 +14,7 @@
 ![NETcore](https://img.shields.io/badge/-NET%20Core-05122A?style=flat&logo=.net&color=white&logoColor=white&labelColor=512BD4)&nbsp;
 
 - Databases:  &nbsp;
-https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server&color=white&logoColor=white&labelColor=CC2927
+![Firebase](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server&color=white&logoColor=white&labelColor=CC2927)&nbsp;
 
  - Tools:  &nbsp;
 ![Firebase](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&color=white&logoColor=white&labelColor=F05032)&nbsp;
