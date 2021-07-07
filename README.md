@@ -12,7 +12,7 @@
 
 - Frameworks: &nbsp;
 ![NETcore](https://img.shields.io/badge/-NET%20Core-05122A?style=flat&logo=.net&color=white&logoColor=white&labelColor=512BD4)&nbsp;
-![NET MVC](https://img.shields.io/badge/-NET%20Core-05122A?style=flat&logo=.net&color=white&logoColor=white&labelColor=512BD4)&nbsp;
+![NET MVC](https://img.shields.io/badge/-NET%20MVC-05122A?style=flat&logo=.net&color=white&logoColor=white&labelColor=512BD4)&nbsp;
 
 - Databases:  &nbsp;
 ![Firebase](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server&color=white&logoColor=white&labelColor=CC2927)&nbsp;
