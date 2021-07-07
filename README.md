@@ -4,7 +4,7 @@
 
 👋 Hi, I’m @Trung
 
-- Languages: &nbsp;
+- Developer: &nbsp;
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&color=white&logoColor=white&labelColor=E34F26)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&color=white&logoColor=white&labelColor=1572B6)&nbsp;
 ![JS](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript&color=white&logoColor=white&labelColor=F7DF1E)&nbsp;
